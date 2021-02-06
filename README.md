@@ -4,7 +4,8 @@ Links úteis:
 - Architectural Styles and the Design of Network-based Software Architectures: https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
 - Documentação Django: https://docs.djangoproject.com/pt-br/3.1/
 - Documentação Django REST Framework: https://www.django-rest-framework.org/
-- Como criar um projeto com Django e DJango REST Framework:
+
+Como criar um projeto com Django e DJango REST Framework:
 
 Comece criando um ambiente virtual.
 
