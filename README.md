@@ -9,7 +9,10 @@ Links úteis:
 Comece criando um ambiente virtual.
 
 Instale o pyenv: 
- *pip install pyenv (linux)*
+
+*pip install pyenv (linux)*
+
+
  *pip install pyenv-win (windows)*
 
 Instale o pipenv:
@@ -22,14 +25,17 @@ Vá para o dretório no qual se deseja criar o projeto. Inicialize o ambiente vi
 pipenv --(versão do python desejada)
 
 Instale o Django e Django REST Framework:
-pipenv install django
-pipenv install djangorestframework
-pipenv install markdown
-pipenv install django-filter
+
+*pipenv install django*
+
+*pipenv install djangorestframework*
+
+*pipenv install markdown*
+
+*pipenv install django-filter*
+
 
 Crie uma aplicação com o django:
-django-admin startproject nome-da-aplicação
 
+*django-admin startproject nome-da-aplicação*
 
-
- 
