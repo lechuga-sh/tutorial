@@ -1,5 +1,7 @@
 # tutorial
 Repositório para estudo de desenvolvimento web com API
+
+
 Links úteis: 
 - Architectural Styles and the Design of Network-based Software Architectures: https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
 - Documentação Django: https://docs.djangoproject.com/pt-br/3.1/
